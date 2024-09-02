@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/stanbrook/static/css/main.63ed83d8.css",
+    "main.js": "/stanbrook/static/js/main.05281382.js",
+    "static/media/Bg-main.png": "/stanbrook/static/media/Bg-main.4f20e1eecc4475b0047f.png",
+    "static/media/London.png": "/stanbrook/static/media/London.efb5f0098274967921bc.png",
+    "static/media/India.png": "/stanbrook/static/media/India.db6017b07848491f16fb.png",
+    "static/media/SA1.png": "/stanbrook/static/media/SA1.0b0d46d94e2e7ec0fead.png",
+    "static/media/Greece.png": "/stanbrook/static/media/Greece.12d1052eb915475cd6ec.png",
+    "static/media/Haly.png": "/stanbrook/static/media/Haly.ac5d3609b9ba1ca221cc.png",
+    "static/media/SA2.png": "/stanbrook/static/media/SA2.ffe2e9e63c982060d3f6.png",
+    "static/media/Women.png": "/stanbrook/static/media/Women.af7df535a96e93340ab4.png",
+    "static/media/America.png": "/stanbrook/static/media/America.4e3f23353b7e622992b3.png",
+    "static/media/Russia1.png": "/stanbrook/static/media/Russia1.45a1ceae28fc89d374f0.png",
+    "static/media/Russia.png": "/stanbrook/static/media/Russia.d5a8af8639e9a9db0a73.png",
+    "static/media/SideImg1.png": "/stanbrook/static/media/SideImg1.b78a19b440e511809843.png",
+    "static/media/SideImg2.png": "/stanbrook/static/media/SideImg2.c8aaf3cc852e29e44f6a.png",
+    "static/media/BgPlace.svg": "/stanbrook/static/media/BgPlace.8782f2ea20be1fcef17055cca32b55e7.svg",
+    "static/media/WhiteBg1.png": "/stanbrook/static/media/WhiteBg1.6ae47d333eba49725f75.png",
+    "static/media/Logo.svg": "/stanbrook/static/media/Logo.1680d8a48b7147c5bf6f9107f33bd915.svg",
+    "static/media/Flight.svg": "/stanbrook/static/media/Flight.c0f851bdb12bf93fc2827bfb5ac5f898.svg",
+    "index.html": "/stanbrook/index.html",
+    "static/media/Shade.svg": "/stanbrook/static/media/Shade.42c0deb9ce759ba7060f9c4367c9f2e6.svg",
+    "static/media/SideBracket2.svg": "/stanbrook/static/media/SideBracket2.1fa73f005f13c590e6b27b74efbf31cd.svg",
+    "static/media/SideBracket1.svg": "/stanbrook/static/media/SideBracket1.2c40843369b3dd57bdcedcbb503c6ce6.svg",
+    "static/media/AboutStyle.svg": "/stanbrook/static/media/AboutStyle.081dc63f7180a730ab276c76d99cec34.svg",
+    "static/media/LondonOn.svg": "/stanbrook/static/media/LondonOn.c9eb22c6fccf9c35a7e49967df33ddea.svg",
+    "static/media/America.svg": "/stanbrook/static/media/America.c6e7f4bb63251a7fb477d140ac3f6687.svg",
+    "static/media/Greece.svg": "/stanbrook/static/media/Greece.d9d6241ac9afe5e99049e2f5eb3a9dbc.svg",
+    "static/media/Haly.svg": "/stanbrook/static/media/Haly.e1131e29ca46a8a15bdcb112bc07e82e.svg",
+    "static/media/IndiaOn.svg": "/stanbrook/static/media/IndiaOn.6fe7eccb89355edb308679eb78adf77f.svg",
+    "static/media/Russia1.svg": "/stanbrook/static/media/Russia1.6e826b4c9ce842029e7c8034f491826c.svg",
+    "static/media/RussiaOn.svg": "/stanbrook/static/media/RussiaOn.31be5a8f5d38ecd3439da070dab22a90.svg",
+    "static/media/SAon1.svg": "/stanbrook/static/media/SAon1.775fa2786b30c4dacbf6cbf975f98a64.svg",
+    "static/media/SAon2.svg": "/stanbrook/static/media/SAon2.775fa2786b30c4dacbf6cbf975f98a64.svg",
+    "main.63ed83d8.css.map": "/stanbrook/static/css/main.63ed83d8.css.map",
+    "main.05281382.js.map": "/stanbrook/static/js/main.05281382.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ed83d8.css",
+    "static/js/main.05281382.js"
+  ]
+}
