@@ -1,0 +1,188 @@
+
+
+.BgPlace {
+    position: relative;
+    top: 356px;
+    z-index: -1;
+    object-fit: cover;
+}
+.heading{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 1250px;
+}
+.heading h1{
+    font-family: Great Vibes;
+    text-align: left;
+    font: normal normal normal 80px/70px Great Vibes;
+    letter-spacing: 0px;
+    color: rgba(187, 187, 187, 1);
+    opacity: 1;
+    position: relative;
+    left: 40%;
+    
+}
+.heading h2{
+    font-family: merienda;
+    text-align: left;
+    letter-spacing: 0px;
+    color: rgba(19, 116, 196, 1);
+    opacity: 1;
+    position: relative;
+    left:19.8%;
+    top: 53px;
+    font: normal normal normal 40px/70px Merienda;
+}
+.heading p{
+    font-family: mevollkorn;
+    position: relative;
+    top: 150px;
+    right: 15%;
+    text-align: center;
+    font: normal normal normal 16px/26px Vollkorn;
+    letter-spacing: 0px;
+    color: rgba(107, 107, 107, 1);
+    opacity: 1;
+}
+.grid-gallery {
+  
+    justify-content: center; /* Center horizontally */
+    position: absolute;
+    width: 65%;
+    top: 263%;
+    left: 51%; /* Move the element to the center of the screen */
+    transform: translateX(-50%); /* Adjust for the element's width */
+
+      
+}
+
+.grid-item {
+    position: relative;
+   
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease-in-out;
+}
+.grid-item .flight{
+    position: relative;
+    top: -1200px;
+    left: 35px;
+    width: 353px;
+    height: 402px;
+}
+
+.grid-item .SouthAfrica{
+    position: relative;
+    left: 0px;
+    width: 419px;
+    height: 299px;
+    }
+.grid-item .span1{
+    position: relative;
+    
+
+    }    
+ .grid-item .London{
+    position: relative;
+    left: 435px;
+    width: 418px;
+    height: 299px;
+    bottom: 300px;
+    opacity: 0.9;
+ } 
+ .grid-item .SouthAfrica1{
+    position: relative;
+    left: 870px;
+    width: 418px;
+    height: 299px;
+    bottom: 599px;
+
+ }  
+.grid-item .russia1{
+
+    position: relative;
+ 
+    height: 299px;
+    bottom: 1180px;
+
+    left: 0px;
+    width: 296px;
+
+
+}
+.grid-item .india{
+    width: 664px;
+    position: relative;
+    bottom: 880px;
+    left: 315px;
+}
+.grid-item .russia{
+    width: 296px;
+    position: relative;
+    bottom:580px;
+    left: 1000px;
+
+}
+
+.grid-item .Greece{
+    position: relative;
+    left: 0px;
+    width: 419px;
+    bottom: 1160px;
+}
+.grid-item .America{
+    position: relative;
+    width: 418px;
+    bottom: 1460px;
+    left: 440px;
+}
+.grid-item .Haly{
+    position: relative;
+    left: 880px;
+    width: 419px;
+    bottom: 1760px;
+    height: 299px;
+}
+
+/* .grid-item span {
+    position: absolute;
+    bottom: 125px;
+    left: 145px;
+    padding: 5px 10px;
+    text-align: center;
+    font: normal normal normal 30px/70px Merienda;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+} */
+
+.grid-item img:hover {
+    transform: scale(1.05);
+}
+
+.read-more-btn {
+    margin-top: 30px;
+    padding: 15px 30px;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+    background: #EE7C00 0% 0% no-repeat padding-box;
+    text-align: center;
+    font: normal normal normal 18px/25px Vollkorn;
+    letter-spacing: 0.9px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: relative;
+    left: 876px;
+    bottom: 500px;
+}
+
+
+

@@ -1,0 +1,102 @@
+
+
+.Bgmain {
+    position: relative;
+    width: 100%; /* Adjust as needed */
+    height: auto; /* Adjust as needed */
+    margin-top: 20px;
+}
+
+.bg {
+    width: 100%;
+    height: auto;
+}
+
+.shade {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Adjust as needed */
+    height: auto;
+    opacity: 1; /* Full opacity */
+}
+
+
+.WhiteBg {
+    position: absolute;
+    top: 800px; /* Moves the second image 50px down from the top of the container */
+    left: 0; /* Aligns the second image to the left */
+    width: 100%; /* Adjust width as needed */
+    height: auto; /* Keeps the aspect ratio */
+    opacity: 1;
+}
+.mainText {
+    position: absolute;
+    top: 50%; /* Centers vertically */
+    left: 50%; /* Centers horizontally */
+    transform: translate(-50%, -50%); /* Adjusts the position to be exactly centered */
+    color: white; /* Set text color for contrast */
+    text-align: center; /* Centers text inside the container */
+    width: 80%; /* Adjust width as needed */
+    padding: 20px; /* Adjust padding for spacing */
+    box-sizing: border-box; /* Include padding within the width */
+}
+
+.mainText h5 {
+    font-size: 20px; /* Adjust font size */
+    margin-bottom: 10px; /* Space below the h5 element */
+    font-weight: normal; /* Set font weight */
+    font-family: 'Vollkorn', serif;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 1);
+    opacity: 1;
+}
+
+.mainText .Head {
+    font-family: 'Merienda', cursive; /* Apply Merienda font */
+    font-size: 53px; /* Set the font size */
+    line-height: 65px; /* Set the line height */
+    font-weight: 300; /* Normal font weight */
+    font-style: normal; /* Normal font style */
+    font-variant: normal; /* Normal font variant */
+    margin: 0; /* Remove margin for consistency */
+    text-align: center; /* Ensure text is centered */
+    color: rgba(255, 255, 255, 1);
+}
+.explore-button {
+    background: transparent linear-gradient(237deg, rgba(0, 170, 158, 1) 0%, rgba(0, 77, 71, 1) 100%) 0% 0% no-repeat padding-box;
+    border: 1px solid rgba(255, 255, 255, 1);
+    color: #FFFFFF; /* Text color */
+    font-size: 16px; /* Font size for the button text */
+    padding: 20px 25px; /* Padding inside the button */
+    margin-top: 20px; /* Space above the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    font-family: 'Vollkorn', serif; /* Ensure the button text uses the same font family */
+    font-weight: normal; /* Normal font weight */
+    outline: none; /* Remove outline on focus */
+    opacity: 1;
+}
+
+.explore-button:hover {
+    background: linear-gradient(237deg, #00AA9E 0%, #004D47 100%); /* Apply gradient on hover */
+}
+
+
+.mainText h2 {
+    text-align: center;
+    font: normal normal normal 50px/60px 'Vollkorn', serif; /* Apply the specific font style */
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin: 10px 0; /* Space above and below the h2 element */
+}
+
+.mainText p {
+    text-align: center; /* Center-aligns the paragraph text */
+    font: normal normal normal 16px/26px 'Vollkorn', serif; /* Applies the Vollkorn font with normal weight, style, size, and line height */
+    letter-spacing: 0px; /* No extra spacing between characters */
+    opacity: 0.9; /* Ensures the text is fully opaque */
+    color: #FFFFFF;
+}
+
+

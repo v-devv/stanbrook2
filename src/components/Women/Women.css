@@ -1,0 +1,126 @@
+.Women-Container {
+    position: relative; /* Make the container a positioning context for child elements */
+    width: 100%; /* Adjust width as needed */
+    height: auto; /* Adjust height as needed */
+}
+
+.Side1,
+.Side2 {
+    position: absolute; /* Allows for precise positioning */
+    top: 0;
+    bottom: 0;
+    /* Adjust left/right position based on your layout */
+}
+
+.Side1 {
+    /* Position on the left side of the container */
+    left: 310px;
+    top: 240px;
+    width: 251.75px;
+    height: 413.65px;
+}
+
+.Side2 {
+   /* Position on the right side of the container */
+    left: 748px;
+    width: 269.92px;
+    height:413.56px;
+    top: 249px;
+}
+
+.Women {
+    position: absolute; /* Allows precise positioning */
+    transform: translate(-50%, -50%); /* Center the image */
+    width: 25%; /* Decrease the size by adjusting width */
+    height: auto; /* Maintain aspect ratio */
+    z-index: 1; /* Ensure it appears above other images */
+    top: 380px;
+    left: 750px;
+    width: 526px;
+    height: 601px;
+}
+
+.Sideimg1,
+.Sideimg2 {
+    position: absolute; /* Allows for precise positioning */
+}
+
+.Sideimg1 {
+    left: 365px; /* Adjust position relative to the container */
+    top: 390px; /* Adjust vertical alignment */
+    width: 206px;
+    height: 211px;
+}
+
+.Sideimg2 {
+    /* Adjust position relative to the container */
+    left: 44%; /* Adjust position relative to the container */
+    top: 310px; /* Adjust vertical alignment */
+    width: 7%;
+}
+
+.Aboutstyle {
+    left: 1080px;
+    width: 60px;
+    top: 200px;
+    position: absolute; /* Allows precise positioning */
+   
+}
+
+.About {
+    position: relative; /* Ensures the div can be positioned relative to its container */
+    left: 1080px; /* Moves the div 1080px to the right */
+    top: 210px;
+
+}
+
+.aboutname {
+    font-size: 18px; /* Example size, adjust as needed */
+    /* Space between the title and the rest of the content */
+    position: relative;
+    left: 20px;
+    top: 35px;
+    font-family: "vollkorn";
+    color: rgba(0, 77, 71, 1);
+}
+
+h1 {
+  /* Example size, adjust as needed */
+    margin-bottom: 20px; /* Space between the heading and paragraph */
+    font: normal normal normal 40px/60px Merienda;
+    letter-spacing: 0px;
+    color: rgba(19, 116, 196, 1);
+    position: relative;
+    right: 6px;
+    top: 12px;
+    opacity: 1;
+}
+
+p {
+    font-size: 14px; /* Example size, adjust as needed */
+    line-height: 1.5; /* Adjust line height for readability */
+    position: relative;
+    right: 6px;
+    text-align: left;
+    font: normal normal normal 16px/26px Vollkorn;
+    font-family:Vollkorn;
+    letter-spacing: 0px;
+    color: rgba(107, 107, 107, 1);
+    opacity: 1;
+    margin-top: 25px;
+}
+
+button {
+    margin-top: 20px; /* Space above the button */
+    padding: 15px 25px; /* Padding inside the button */
+    background: rgba(238, 124, 0, 1) 0% 0% no-repeat padding-box;
+    border: none; /* Removes the button border */
+    cursor: pointer; /* Changes the cursor to a pointer on hover */
+    text-align: center;
+    font: normal normal normal 18px/25px Vollkorn;
+    letter-spacing: 0.9px;
+    color: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: relative;
+    right: 6px;
+}

@@ -1,0 +1,50 @@
+/* .navbar{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-menu{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    font-size: 18px;
+    text-align: left;
+    align-items: center;
+    
+} 
+
+
+.navbar .logo{
+    top: 17px;
+    left: 884px;
+    width: 151px;
+    height: 134px;  
+    display: block;
+    margin: auto;
+} */
+  
+  .navbar {
+    display: flex;
+    flex-direction: column;  /* Stack the logo and navbar vertically */
+    align-items: center;     /* Center horizontally */
+  }
+  
+  .logo {
+    margin-bottom: 20px; /* Space between logo and navbar */
+  }
+  
+  .navbar-menu {
+    display: flex;
+    list-style: none;  /* Remove default bullet points */
+    padding: 0;
+    margin: 0;
+    font-family: 'Vollkorn', serif;
+  }
+  
+  .navbar-menu li {
+    margin: 0 15px; /* Space between menu items */
+    cursor: pointer;
+  }
+  
+  
